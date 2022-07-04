@@ -1,11 +1,12 @@
 Intro+ header: Trung
 WHY CHOOSE US: Linh
 ABOUT OUR COMPANY: Trung
-We are true to ourselves+ right sidebar: Linh
+Ourselves + right sidebar: Linh
 Explore Solutions: Linh
 QUESTIONS AND ANSWERS: Linh
 FEATURED CASES: Trung
-OUR CLIENTS TESTIMONIALS: Trung
+TESTIMONIALS: Trung
 Demo: Trung
 Contact: Linh
 back-on-top: Trung
+fixed video: Linh
