@@ -1,9 +1,9 @@
-Intro+ header: Trung
-WHY CHOOSE US: Linh
-ABOUT OUR COMPANY: Trung
-We are true to ourselves+ right sidebar: Linh
-Explore Solutions: Linh
-QUESTIONS AND ANSWERS: Linh
+#Intro+ header: Trung
+WHY CHOOSE US(#intro2): Linh
+ABOUT OUR COMPANY(#About Us): Trung
+We are true to ourselves(#Ourselves) + right sidebar: Linh
+#Explore__Solutions: Linh
+QUESTIONS AND ANSWERS(#q__a): Linh
 FEATURED CASES: Trung
 OUR CLIENTS TESTIMONIALS: Trung
 Demo: Trung
