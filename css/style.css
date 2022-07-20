@@ -546,23 +546,34 @@ header .navbar .collapse ul .dropdown span{
   border-radius: 5px;
   box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
 }
-.accordion .accordion-item{
-  padding: 15px 20px;
+#q__a .card{
+  position: relative;
   margin-bottom: 20px;
-  margin-left: 50px;
-  border-radius: 5px;
-  border : 1px solid rgb(227, 227, 227);
-}
-.accordion .accordion-item .accordion-button{
-  font-size: 22px;
-}
-.accordion-button:not(.collapsed) {
-  color: black;
   background-color:white;
+  margin-left:25px;
+  border-radius: 5px;
+}
+.btn-link:focus{
+  text-decoration: none;
+}
+.btn-link:hover{
+  text-decoration: none;
+}
+.btn:focus {
   box-shadow: none;
 }
-.accordion-button:focus {
-  box-shadow: none;
+#q__a .card .card-header button{
+  font-size: 20px;
+  color: black;
+}
+#q__a .card .card-header{
+  background-color:white;
+  border-bottom: none;
+}
+#q__a .card i{
+  position: absolute;
+  top:20px;
+  right:20px;
 }
 /*--------- Dark Mode---------- */
 
